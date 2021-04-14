@@ -1,15 +1,11 @@
 {
-  "name": "shopbank-api",
+  "name": "webrtc-mediasoup",
   "version": "1.0.0",
   "description": "Web RTC Media Soup",
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
     "start": "nodemon --watch ./src/ --ignore ./src/**/*.spec.ts --exec ts-node ./src/index.ts"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:fiop/shopbank/shopbank-api.git"
   },
   "keywords": [
     "typescript",
