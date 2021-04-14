@@ -12,7 +12,11 @@
     "url": "git@gitlab.com:fiop/shopbank/shopbank-api.git"
   },
   "keywords": [
-    "shopbank"
+    "typescript",
+    "nodejs",
+    "template",
+    "simple",
+    "demo"
   ],
   "author": "huynhnt6995",
   "license": "ISC",
